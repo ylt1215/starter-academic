@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jolin Yi-Lin Tsai # Website name
-baseurl: '' https://ylt1215.github.io/
+baseurl: 'https://ylt1215.github.io/' 
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
